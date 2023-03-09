@@ -251,7 +251,7 @@ div#preloader {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.5); /*(16,66,125,1)*/
 }
 
 #header.header-scrolled {
@@ -260,7 +260,7 @@ div#preloader {
 }
 
 #header .logo h1 {
-  font-size: 36px;
+  font-size: 28px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -594,7 +594,7 @@ div#preloader {
 #hero h2 {
   color: #fff;
   margin-bottom: 20px;
-  font-size: 24px;
+  font-size: 38px;
   font-weight: 700;
 }
 
@@ -607,7 +607,7 @@ div#preloader {
 
 #hero p {
   width: 80%;
-  font-size: 38px;
+  font-size: 26px;
   line-height: 1.2;
   margin: 0 auto 30px auto;
   color: #fff;
